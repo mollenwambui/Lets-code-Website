@@ -1,7 +1,9 @@
 /*-- -------------------------- -->
 <---          Landing           -->
+
 <--- -------------------------- -*/
 /* Mobile */
+
 @media only screen and (min-width: 0em) {
   #int-hero {
     min-height: 50vh;
